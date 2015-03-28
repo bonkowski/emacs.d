@@ -59,3 +59,7 @@
 
 ;; projectile everywhere!
 (projectile-global-mode)
+
+
+(global-set-key (kbd "s-;") 'ace-jump-mode) 
+

@@ -14,4 +14,4 @@
 
 
 ;; Magit
-(global-set-key (kbd "C-x G") 'magit-status)
+(global-set-key (kbd "C-c g") 'magit-status)
